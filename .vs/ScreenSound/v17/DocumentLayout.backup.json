@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\bolsapasta\\workarea\\alura-csharp-consumindoapi\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\bolsapasta\\workarea\\alura-csharp-consumindoapi\\screensound\\menus\\menuavaliaralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuavaliaralbum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\bolsapasta\\workarea\\alura-csharp-consumindoapi\\screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\bolsapasta\\workarea\\alura-csharp-consumindoapi\\screensound\\menus\\menuavaliarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuavaliarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\bolsapasta\\workarea\\alura-csharp-consumindoapi\\screensound\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\bolsapasta\\workarea\\alura-csharp-consumindoapi\\screensound\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\bolsapasta\\workarea\\alura-csharp-consumindoapi\\screensound\\models\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\models\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\bolsapasta\\workarea\\alura-csharp-consumindoapi\\screensound\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuexibirdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\bolsapasta\\workarea\\alura-csharp-consumindoapi\\screensound\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuavaliarbanda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\bolsapasta\\workarea\\alura-csharp-consumindoapi\\screensound\\models\\iavaliavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\models\\iavaliavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\bolsapasta\\workarea\\alura-csharp-consumindoapi\\screensound\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\models\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuAvaliarMusica.cs",
+              "DocumentMoniker": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Menus\\MenuAvaliarMusica.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuAvaliarMusica.cs",
+              "ToolTip": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Menus\\MenuAvaliarMusica.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuAvaliarMusica.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:53:01.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuAvaliarAlbum.cs",
+              "DocumentMoniker": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Menus\\MenuAvaliarAlbum.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuAvaliarAlbum.cs",
+              "ToolTip": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Menus\\MenuAvaliarAlbum.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuAvaliarAlbum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T10:14:26.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAvaliavel.cs",
+              "DocumentMoniker": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Models\\IAvaliavel.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Models\\IAvaliavel.cs",
+              "ToolTip": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Models\\IAvaliavel.cs",
+              "RelativeToolTip": "ScreenSound\\Models\\IAvaliavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T09:59:24.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Menus\\Menu.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\Menu.cs",
+              "ToolTip": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Menus\\Menu.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:55:03.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuAvaliarBanda.cs",
+              "DocumentMoniker": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "ToolTip": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuAvaliarBanda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:49:27.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuExibirDetalhes.cs",
+              "DocumentMoniker": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "ToolTip": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuExibirDetalhes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:41:39.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Avaliacao.cs",
+              "DocumentMoniker": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Models\\Avaliacao.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Models\\Avaliacao.cs",
+              "ToolTip": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Models\\Avaliacao.cs",
+              "RelativeToolTip": "ScreenSound\\Models\\Avaliacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:58:06.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Models\\Musica.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Models\\Musica.cs",
+              "ToolTip": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Models\\Musica.cs",
+              "RelativeToolTip": "ScreenSound\\Models\\Musica.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:17:56.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Models\\Album.cs",
+              "ToolTip": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Models\\Album.cs",
+              "RelativeToolTip": "ScreenSound\\Models\\Album.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:17:50.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Models\\Banda.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Models\\Banda.cs",
+              "ToolTip": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Models\\Banda.cs",
+              "RelativeToolTip": "ScreenSound\\Models\\Banda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:15:32.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
+              "ToolTip": "C:\\BolsaPasta\\workarea\\alura-csharp-consumindoAPI\\ScreenSound\\Program.cs",
+              "RelativeToolTip": "ScreenSound\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:07:58.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
